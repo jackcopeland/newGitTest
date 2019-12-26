@@ -1,0 +1,47 @@
+Region/ NRS,City,State,Future Customer Coverage,HE KAM
+1,Long Island,NY,R1 Small Format (7-11),YES
+1,Richmond,VA,"Giant Food, Total Wine VA, MA",YES
+1,Metro NY,NY,Metro NY Large Format,YES
+1,Rochester,NY,"Price Chopper, Wegmans",YES
+1,Richmond,VA,R1 Small Format (7-11),YES
+1,Manchester,CT,R1 Package Liquor #1,YES
+1,East Yaphank,NY,R1 Package Liquor #2,YES
+1,Philadelphia,PA,R1 Package Liquor #3,YES
+1,Robbinsville,NJ,R1 Package Liquor #4,YES
+2,Tampa ,FL,"Publix, Winn Dixie",YES
+2,Atlanta,GA,R2 Large Format,YES
+2,NC/SC,NC/SC,R2 Small Format,YES
+3,Chicago,IL,"Jewel, Meijer",YES
+3,Chicago,IL,R3 Small Format,YES
+3,Indianapolis,IN,R3 Large Format,YES
+4,"Des Moines, IA",IA,"Hyvee, Schnucks",YES
+5,Dallas,TX,"HEB, Wholefoods",YES
+5,Dallas,TX,R5 Small Format,YES
+5,Dallas,TX,R5 Large Format,YES
+6,Seattle,WA,R6 Large Format,YES
+6,Boise,ID,R6 Small Format,YES
+7,Los Angeles,CA,"Smart & Final, Hispanic Chains",YES
+7,Los Angeles,CA,"Stater Bros, Raleys",YES
+7,Los Angeles,CA,R7 Small Format,YES
+NRS,New York ,NY,Dining/Emerging R1 HE/craft centric chains,YES
+NRS,Chicago,IL,Dining,YES
+NRS,Chicago,IL,"Rite Aid, Walgreens",YES
+NRS,Denver,CO,Hybrid (On-Premise),YES
+NRS,Los Angeles,CA,Dining,YES
+NRS,San Francisco,CA,Dining,YES
+NRS,Dallas,TX,Dining,YES
+NRS,,NY,"Total Wine, Harris Teeter",YES
+NRS,St. Louis,MO,Target,YES
+NRS,,,Dining,YES
+NRS,St. Louis,MO,"Walmart, Sam's",YES
+NRS,Cinncinatti,OH,Kroger Corporate,YES
+NRS,San Diego,CA,"F4L, Frys, Smiths, Ralph's",YES
+NRS,Cinncinatti,OH,Kroger Central,YES
+NRS,Portland,OR,Fred Meyer & QFC,YES
+NRS,Charlotte,NC,Kroger Delta/Atlanta/Mid Atlantic,YES
+NRS,Charlotte,NC,"Food Lion, Hannaford",YES
+NRS,San Francisco,CA,Safeway Albertsons California,YES
+NRS,Portland,OR,"Safeway Albertsons PacNW, Denver",YES
+NRS,Chicago,IL,Lodging,YES
+NRS,,,Lodging,YES
+NRS,Los Angeles,CA,Lodging,YES
